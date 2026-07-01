@@ -15,11 +15,16 @@
 * Desempeño del cargo de seguridad en almacén de productos médicos para EsSalud.
 * Control, supervisión y gestión de la seguridad del inventario y las instalaciones.
 
-### **Voluntario Universitario** — Voluntariado “Ciudades Verdes”
+### **Certificado SOMA** — 
 *Octubre 2025 | Huánuco, Perú*
-* Participación activa en apoyo comunitario y colaboración en proyectos sociales promovidos por la universidad.
+* Participación activa en el estudio de materiales para la seguridad en el trabajo.
 * Desarrollo de habilidades sólidas de trabajo en equipo y coordinación en entornos dinámicos.
 
+### **Certificado TOELF** — B2”
+*Marzo 2024 | ICPNA-Huánuco, Perú*
+* Rendimiento B2 en el examen internacional que certifica el nivel de ingles del estudiante
+* Habilidades linguisticas en el idioma ingles de nivel B2
+* Comprensión de la gramática del idioma ingles nivel C14
 ---
 
 ## 🛠️ Habilidades Clave
