@@ -1,6 +1,6 @@
 # ¡Hola! Soy Max Erick Caballero Sánchez
 <div align="center">
-  <img src="foto.jpg" alt="Max Erick Caballero Sánchez" width="180" style="border: 3px solid black; border-radius: 10px; margin: 15px 0;">
+  <img src="Yo.jpg" alt="Max Erick Caballero Sánchez" width="180" style="border: 3px solid black; border-radius: 10px; margin: 15px 0;">
 </div>
 ## Estudiante de Ingeniería Industrial
 
