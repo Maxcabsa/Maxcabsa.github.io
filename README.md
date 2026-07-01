@@ -1,5 +1,5 @@
 # ¡Hola! Soy Max Erick Caballero Sánchez
-<img src="yo.jpeg" alt="Max Erick Caballero Sánchez" width="180" style="border-radius: 10px;">
+<img src="Yo.jpeg" alt="Max Erick Caballero Sánchez" width="180" style="border-radius: 10px;">
 ## Estudiante de Ingeniería Industrial
 
 ¡Bienvenido a mi portafolio profesional! Soy estudiante de 7° ciclo de Ingeniería Industrial en la Universidad Nacional Hermilio Valdizán. Me apasiona la optimización de procesos, el trabajo en equipo y el enfoque preventivo: me enfoco en identificar fallas de forma temprana para proponer soluciones eficientes y estrategias de prevención.
